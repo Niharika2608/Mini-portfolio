@@ -1,0 +1,62 @@
+*{
+    font-family:  serif;
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box; 
+}
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: url(img/bg.jpg);
+    background-position: center;
+    justify-content: center;
+    align-items:center ;
+    display: flex;
+    margin: auto;
+     background-size: cover;
+  
+} 
+
+
+
+.card {
+  text-align: center;
+   width: 90%;
+   max-width: 900px;
+   background-color : #DB5755;
+   display: inline-block;
+   height: 85%;
+   padding : 50px 35px; 
+   border : 10px solid rgba(0, 0, 0, 0.3);
+   color: #fff;
+
+}
+.Niimg {
+     border-radius: 50%;
+     width: 340px;        
+   
+}
+.card h1 {
+     font-weight: 900;
+     font-size: 60px;
+}
+.card h4 {
+ text-transform: uppercase;
+ font-weight: 400 ;
+ text-align: center;
+ /* text-decoration: underline; */
+ margin-top: 20px 50px;
+
+} 
+
+   
+.social-media-icons a img {
+    width: 50px ;
+    height: 50px;
+    padding: 6px;
+    
+
+}
+
+      
+    mujhe black n white icon chiye kiska twwiter linkden hsgnofde to inke icon to ese hi ti hai ruk 
